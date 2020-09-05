@@ -1,0 +1,6 @@
+testEmailCadastrado,email,senha,cpf,msgemail,msgsenha,msgcpf
+                   ,teste@hotmail.com,Senha@b,25547243000,E-mail já cadastrado,boa,
+                   ,testesemmail@hotmail.com,ab,41054860807, ,fraca
+                   ,emailnaoexistente@hotmail.com,ab,02113994003, , ,Campo inválido
+
+
